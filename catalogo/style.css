@@ -1,34 +1,38 @@
 body{
 	background-color:#D0D1CF;
-	}
-	.titulo{
+}
+	
+.titulo{
 	color:black;
 	text-align:center;
 	font-family:arial;
-	}
+}
+
 header{
 	background-color:#59177D;
 }
+
 footer{ 
 	color:#00122D;
 	text-align:center;
 	font-family:arial;
 }
+
 p{ 
 	font-family:arial;
 	color:#00122D;
 	text-align:center;
 } 
-	img{
-	display: block;
-	margin-left:auto;
-	margin-right:auto;
-	width: 55%;
-	}
-	.legend{
+img{
+display: block;
+margin-left:auto;
+margin-right:auto;
+width: 55%;
+}
+.legend{
 	text-align:center;
 	font-family:arial;
-	}
-	.roxo{
+}
+.roxo{
 	background-color:#59177D;
-	} 
+} 
