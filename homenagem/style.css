@@ -1,3 +1,9 @@
+html {
+
+  font-size: calc(1em + 1vm);
+  
+}
+	
 body {
   
  background-color: lightgrey;
