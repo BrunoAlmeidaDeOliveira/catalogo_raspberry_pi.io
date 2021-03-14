@@ -1,44 +1,35 @@
-html { 
-	font-size: calc(1em + 1vw - 20%);
+html { font-size: calc(1em + 1vw - 20%); }
 
-}
+body { background-color:#D0D1CF; }
 
-body{
-	background-color:#D0D1CF;
-}
+main { padding: 10%;}
 	
-.titulo{
-	text-align:center;
-}
+.titulo { text-align:center; }
 
-header{
-	background-color:#59177D;
-}
+header { background-color:#59177D; }
 
-footer{ 
+footer { 
 	color:#00122D;
 	text-align:center;
 	font-family:arial;
 }
 
-p{ 
+p { 
 	font-family:arial;
 	color:#00122D;
 	text-align:center;
 } 
 
-img{
+img {
 	display: block;
 	margin-left:auto;
 	margin-right:auto;
 	width: 55%;
 }
 
-.legend{
+.legend {
 	text-align:center;
 	font-family:arial;
 	font-size: 50%;
 }
-.roxo{
-	background-color:#59177D;
-} 
+.roxo { background-color:#59177D; } 
