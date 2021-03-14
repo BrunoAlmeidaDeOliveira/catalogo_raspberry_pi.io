@@ -1,3 +1,8 @@
+html { 
+	font-size: calc(1em + 1vw);
+
+}
+
 body{
 	background-color:#D0D1CF;
 }
@@ -21,11 +26,11 @@ p{
 	color:#00122D;
 	text-align:center;
 } 
-img{
-display: block;
-margin-left:auto;
-margin-right:auto;
-width: 55%;
+	img{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	width: 55%;
 }
 .legend{
 	text-align:center;
