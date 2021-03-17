@@ -2,7 +2,12 @@ html {
  
   color: lightyellow;
  
-  font-size: calc(1em + 1vw -20%
+  font-size: calc(1em + 1vw);
+ 
+ background: url(https://mcdn.wallpapersafari.com/medium/21/2/Bkf9VP.jpg)
+no-repeat center center fixed;
+ 
+background-size: cover;
   
 }
 
@@ -13,12 +18,6 @@ width: 100%;
 padding: 5%;
 margin: 0%;
  
-background: url(https://mcdn.wallpapersafari.com/medium/21/2/Bkf9VP.jpg)
-no-repeat center center fixed;
- 
-background-size: cover;
-
-
 }
 
 #main {
